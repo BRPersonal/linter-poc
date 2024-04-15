@@ -10,4 +10,7 @@ public class AppProperties
 {
     @Value("${externalservice.base.url}")
     private String externalServiceBaseUrl;
+
+    @Value("${scheduler.service.fixedDelayInMillis}")
+    private long schedulerDelayInMillis;
 }

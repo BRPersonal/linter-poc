@@ -29,6 +29,10 @@ build/
 target/
 .gradle/
 logs/
+gradle/wrapper
+gradlew
+gradlew.bat
+
 
 
 
