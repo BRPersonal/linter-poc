@@ -11,7 +11,7 @@ gradle clean test
 gradle nativeCompile
 
 #Start native app
-./build/native/nativeCompile/linter-poc
+./build/native/nativeCompile/poc-webclient
 
 Browse the urls
 http://localhost:8080/coffee/iced
